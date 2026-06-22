@@ -11,7 +11,7 @@ A **custom**, **highly optimized standalone application** for the **Flipper Zero
 - **On-Device SD Card Logging:** Press the **RIGHT** button during an **active sweep** to instantly log the **functional hexadecimal code** to `ir_fuzzer_hits.txt`.
 - **Integrated History Viewer:** Hold down the center **OK** button while idle to open a **scrolling popup** list of all your **captured codes** right on the device.
 
- <a href="https://postimg.cc/wtYPm1s5" target="_blank"><img src="https://i.postimg.cc/wtYPm1s5/Screenshot-20260621-232951-Flipper.jpg" alt="Screenshot-20260621-232951-Flipper"></a> <a href="https://postimg.cc/tYtVjfNR" target="_blank"><img src="https://i.postimg.cc/tYtVjfNR/Screenshot-20260621-232955-Flipper.jpg" alt="Screenshot-20260621-232955-Flipper"></a>
+<a href="https://postimg.cc/7G9QjDYW" target="_blank"><img src="https://i.postimg.cc/7G9QjDYW/Screenshot-20260622-002220-Flipper.jpg" alt="Screenshot-20260622-002220-Flipper"></a> <a href="https://postimg.cc/9wfNhSDR" target="_blank"><img src="https://i.postimg.cc/9wfNhSDR/Screenshot-20260622-002301-Flipper.jpg" alt="Screenshot-20260622-002301-Flipper"></a>
 
 ---
 
