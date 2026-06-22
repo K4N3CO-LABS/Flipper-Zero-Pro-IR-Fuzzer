@@ -1,0 +1,10 @@
+App(
+    appid="ir_smart_fuzzer",
+    name="IR Smart Fuzzer",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="ir_fuzzer_app",
+    requires=["gui"],
+    stack_size=2 * 1024,
+    order=20,
+    fap_category="Infrared",
+)
