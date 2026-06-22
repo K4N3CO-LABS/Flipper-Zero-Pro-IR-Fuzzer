@@ -1,4 +1,4 @@
-# Flipper Zero Pro IR Fuzzer & Brute-Forcer v1.5 
+# Flipper-Zero Pro IR Fuzzer & Brute-Forcer v1.5 
 <a href='https://postimg.cc/vxmZfQNh' target='_blank'><img src='https://i.postimg.cc/vxmZfQNh/Screenshot-flipper.png' border='0' alt='Screenshot-flipper'></a>
 
 A **custom**, **highly optimized standalone application** for the **Flipper Zero** that utilizes **bare-metal GPIO bit-banging** to execute **high-speed infrared** code sweeps across **multiple industrial protocol** standards.
@@ -25,7 +25,7 @@ ufbt launch
 
 ## ⭐ Support the Project
 
-If you find **JailBreak-Ai** useful, please consider giving the project a **Star** ⭐ — it helps a lot!
+If you find **Flipper-Zero Pro IR Fuzzer** useful, please consider giving the project a **Star** ⭐ — it helps a lot!
 
 Feel free to open **issues** or submit **pull** requests. **Contributions** are **always** welcome!
 
