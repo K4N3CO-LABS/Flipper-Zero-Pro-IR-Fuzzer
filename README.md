@@ -25,7 +25,7 @@ ufbt launch
 
 ## ⭐ Support the Project
 
-If you find **Flipper-Zero Pro IR Fuzzer** useful, please consider giving the project a **Star** ⭐ — it helps a lot!
+If you find the **Flipper-Zero Pro IR Fuzzer** useful, please consider giving the project a **Star** ⭐ — it helps a lot!
 
 Feel free to open **issues** or submit **pull** requests. **Contributions** are **always** welcome!
 
